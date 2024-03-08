@@ -4,11 +4,11 @@
  * Current central released version 2.x branch: [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.mp4parser/isoparser/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.googlecode.mp4parser/isoparser)
 
 <video width="320" height="240" controls>
-  <source src="A.mp4" type="video/mp4">
+  <source src="streaming/A.mp4" type="video/mp4">
 </video>
 
 <video width="320" height="240" controls>
-  <source src="A.webm" type="video/mp4">
+  <source src="streaming/A.webm" type="video/mp4">
 </video>
 
 
